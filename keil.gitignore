@@ -6,6 +6,7 @@
 *.uvopt
 *.uvoptx
 *.uvgui
+*.uvgui.*
 *.uvguix.*
 
 # Listing files
