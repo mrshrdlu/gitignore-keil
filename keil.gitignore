@@ -39,6 +39,10 @@
 *.__i
 *._ii
 
+# Generated output files
+/Listings/*
+/Objects/*
+
 # Debugger files
 *.ini  	# define exception below if needed
 
