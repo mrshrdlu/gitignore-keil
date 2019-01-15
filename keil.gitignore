@@ -17,7 +17,8 @@
 *.map
 *.m51
 *.m66
-*.scr  	# define exception below if needed
+# define exception below if needed
+*.scr
 
 # Object and HEX files
 *.axf
@@ -34,7 +35,8 @@
 *.sbr
 
 # Build files
-*.bat  	# define exception below if needed
+# define exception below if needed
+*.bat
 *._ia
 *.__i
 *._ii
@@ -44,7 +46,8 @@
 /Objects/*
 
 # Debugger files
-*.ini  	# define exception below if needed
+# define exception below if needed
+*.ini
 
 # Other files
 *.build_log.htm
@@ -54,10 +57,13 @@
 *.lin
 *.lnp
 *.orc
-*.pack 	# define exception below if needed
-*.pdsc 	# define exception below if needed
+# define exception below if needed
+*.pack
+# define exception below if needed
+*.pdsc
 *.plg
-*.sct  	# define exception below if needed
+# define exception below if needed
+*.sct
 *.sfd
 *.sfr
 
